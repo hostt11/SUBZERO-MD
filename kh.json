@@ -1,7 +1,7 @@
 {
   "bot-name": "SubZero-MD",
   "description": "A high-performance, multi-device WhatsApp bot built on Node.js.",
-  "logo": "https://media.mrfrankofc.gleeze.com/media/subzero/sublogo.png",
+  "logo": "https://camo.githubusercontent.com/e98579b2589d3a741f6dc803fe101ed6e1ee5de473e2d40c9d6f2956e087ab87/68747470733a2f2f6d726672616e6b6f2d63646e2e68662e73706163652f6d656469612f7375627a65726f2f7375626c6f676f2e706e67",
   "documentation-link": "https://sessions.subzero.gleeze.com",
   "keywords": ["SUBZERO-MD", "whatsapp-bot", "automation", "multi-device", "nodejs"],
   "success_url": "/",  
